@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualCity", "VirtualCity\VirtualCity.vcxproj", "{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Debug|x64.ActiveCfg = Debug|x64
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Debug|x64.Build.0 = Debug|x64
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Debug|x86.Build.0 = Debug|Win32
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Release|x64.ActiveCfg = Release|x64
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Release|x64.Build.0 = Release|x64
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Release|x86.ActiveCfg = Release|Win32
+		{3CBE0B18-5DC1-46E0-A62B-B94231E7FCC6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2114E6DD-21F0-41B4-B50D-9E6713E5918C}
+	EndGlobalSection
+EndGlobal
